@@ -29,6 +29,10 @@ e^{i\theta} = \cos(\theta) + i \sin(\theta)
 ---
 
 ## 📦 Requirements
+numpy
+scipy
+soundfile
+sounddevice
 
 Install dependencies:
 
