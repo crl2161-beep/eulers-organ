@@ -33,7 +33,7 @@ numpy
 scipy
 soundfile
 sounddevice
-
+matplotlib
 Install dependencies:
 
 ```bash
